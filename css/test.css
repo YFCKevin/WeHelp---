@@ -1,0 +1,21 @@
+body{
+    background-image: url('file:///C:/Users/pigmo/Desktop/project/img/map.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-image: bottom;
+    
+}
+.rocket{
+    position: absolute;
+    bottom: 0;
+    transition: all 10s cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+.rocket-1{
+    left: 20px;
+}
+.rocket-2{
+    left: 320px;
+}
+.rocket-3{
+    left: 620px;
+}
